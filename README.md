@@ -70,7 +70,7 @@
 
 
 ---
-Código base e orientações iniciais por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la"). Modificações e implementação de outras funcionalidades feitas por Mia Bueno.
+Código base e orientações iniciais por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la"). Modificações e implementação de outras funcionalidades feitas por Marcos Bueno.
 
 
 
